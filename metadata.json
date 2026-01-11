@@ -1,0 +1,5 @@
+{
+  "name": "PoseGen AI (Nano Banana)",
+  "description": "An AI-powered app that uses Gemini 2.5 Flash Image (Nano Banana) to generate alternative poses and shots from your uploaded images. Simply upload a photo and describe the new pose or choose from our presets.",
+  "requestFramePermissions": []
+}
